@@ -12,6 +12,11 @@ the path in the navigator bar into the script.
 This script then moves remnant Latex files into a folder entitled `!LATEX-CLEANUP` as a subfolder
 of the original given folder.
 
+##Running the program
+You must have Python 2.7 installed (*not* 3.x) to run this script.
+To run, use a terminal to navigate to the folder in which the `.py` file is saved. Then
+run the python script with `python Latex-Cleanup.py`. Be ready to paste or type the filepath. 
+
 ##Warnings
 **There are a couple of important notes about using this script, because it can have unintended
 consequences.**
